@@ -1,0 +1,8 @@
+db:
+  type: 'postgres'
+  port: 5432
+  database: 'test'
+  host: 'postgres'
+  username: 'postgres'
+  password: 'postgres'
+  synchronize: true
